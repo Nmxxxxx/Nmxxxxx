@@ -1,6 +1,31 @@
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ViNnNxdnh6czk0OWVraGpnM2NyYnByOWt6cjZ0M2N2dnhoNDZtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c64m96xIm0ECc/giphy.gif" width="100"/>
-</div>
-<div align="center">
-  <img src="https://bogatyr.club/uploads/posts/2023-03/thumbs/1679644665_bogatyr-club-p-temnii-fon-granzh-krasivo-1.jpg" width="600" height="300"/>
-</div>
+# SkillScout
+
+**SkillScout — это инструмент, предназначенный для помощи в развитии навыков и компетенций. Он предоставляет пользователям возможность отслеживать свои навыки, устанавливать цели и получать персонализированные рекомендации по обучению.**
+
+## Установка
+
+1. Клонируйте репозиторий:
+
+   ```bash
+   git clone https://github.com/Alberto-Kali/skillscout.git
+   ```
+
+2. Перейдите в директорию проекта:
+
+    ```bash
+    cd skillscout
+    ```
+
+3. Установите зависимости:
+    ```bash
+    npm install
+    ```
+
+## Использование
+
+1. Запустите файл:
+    ```bash
+    npm start
+    ```
+
+*Откройте браузер и перейдите по адресу http://localhost:3000.*
